@@ -1,0 +1,21 @@
+{
+    "urls": [
+        "https://www.singlestore.com/blog/complete-guide-to-evaluating-large-language-models/",
+        "https://www.analyticsvidhya.com/blog/2023/05/how-to-evaluate-a-large-language-model-llm/#:~:text=How%20to%20evaluate%20LLM%20answers,gold%20standard%20or%20human%20judgment.",
+        "https://www.linkedin.com/pulse/evaluating-large-language-models-llms-standard-set-metrics-biswas-ecjlc"
+    ],
+    "all_url": [
+        "https://www.linkedin.com/pulse/evaluating-large-language-models-llms-standard-set-metrics-biswas-ecjlc",
+        "https://www.linkedin.com/pulse/evaluating-large-language-models-llms-standard-set-metrics-biswas-ecjlc",
+        "https://www.analyticsvidhya.com/blog/2023/05/how-to-evaluate-a-large-language-model-llm/#:~:text=How%20to%20evaluate%20LLM%20answers,gold%20standard%20or%20human%20judgment.",
+        "https://www.singlestore.com/blog/complete-guide-to-evaluating-large-language-models/",
+        "https://raga.ai/blogs/llm-evaluation#:~:text=Intrinsic%20metrics%3A%20Intrinsic%20metrics%20measure,and%20coherence%20of%20LLM%20outputs.",
+        "https://aisera.com/blog/llm-evaluation/#:~:text=LLM%20evaluation%20metrics%20include%20answer,that%20matter%20for%20your%20application.",
+        "https://www.analyticsvidhya.com/blog/2023/05/how-to-evaluate-a-large-language-model-llm/#:~:text=How%20to%20evaluate%20LLM%20answers,gold%20standard%20or%20human%20judgment.",
+        "https://www.singlestore.com/blog/complete-guide-to-evaluating-large-language-models/",
+        "https://www.singlestore.com/blog/complete-guide-to-evaluating-large-language-models/",
+        "https://www.codesmith.io/blog/an-introduction-to-llm-evaluation-how-to-measure-the-quality-of-llms-prompts-and-outputs",
+        "https://www.analyticsvidhya.com/blog/2023/05/how-to-evaluate-a-large-language-model-llm/",
+        "https://deepchecks.com/how-to-build-evaluate-and-manage-prompts-for-llm/#:~:text=Evaluating%20the%20Effectiveness%20of%20Prompts,-Establishing%20Criteria%20for&text=To%20ascertain%20the%20effectiveness%20of,responses%20accurately%20address%20the%20query%3F"
+    ]
+}

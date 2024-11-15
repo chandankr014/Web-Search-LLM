@@ -1,0 +1,19 @@
+{
+    "urls": [
+        "https://whylabs.ai/blog/posts/7-ways-to-evaluate-and-monitor-llms"
+    ],
+    "all_url": [
+        "https://research.aimultiple.com/large-language-model-evaluation/#:~:text=Create%20diverse%20and%20representative%20reference,and%20coverage%20of%20reference%20data.",
+        "https://www.analyticsvidhya.com/blog/2023/05/how-to-evaluate-a-large-language-model-llm/#:~:text=How%20to%20evaluate%20LLM%20answers,gold%20standard%20or%20human%20judgment.",
+        "https://www.singlestore.com/blog/complete-guide-to-evaluating-large-language-models/",
+        "https://studyx.ai/homework/100965173-how-do-you-measure-the-performance-of-a-language-model-ability-to-analyze-prompts#:~:text=Choose%20appropriate%20metrics%20like%20perplexity,measure%20the%20language%20model's%20performance.&text=Collect%20a%20set%20of%20prompts,model%2Dgenerated%20responses%20for%20evaluation.&text=Compute%20the%20perplexity%20of%20the,well%20it%20predicts%20the%20prompts.",
+        "https://raga.ai/blogs/llm-evaluation#:~:text=Intrinsic%20metrics%3A%20Intrinsic%20metrics%20measure,and%20coherence%20of%20LLM%20outputs.",
+        "https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation#:~:text=Answer%20Relevancy%3A%20Determines%20whether%20an,fake%20or%20made%2Dup%20information.",
+        "https://www.analyticsvidhya.com/blog/2023/05/how-to-evaluate-a-large-language-model-llm/",
+        "https://www.mattambrogi.com/posts/summary-evals/#:~:text=Compare%20the%20summary%20to%20the,or%20redundant%20information%20it%20contains.",
+        "https://whylabs.ai/blog/posts/7-ways-to-evaluate-and-monitor-llms",
+        "https://whylabs.ai/blog/posts/7-ways-to-evaluate-and-monitor-llms",
+        "https://www.analyticsvidhya.com/blog/2023/05/how-to-evaluate-a-large-language-model-llm/#:~:text=LLM%20chatbot%20performance%20is%20evaluated,through%20metrics%20and%20user%20feedback.",
+        "https://blog.uptrain.ai/unveiling-the-significance-of-response-relevance-and-completeness-in-llms/#:~:text=Response%20relevance%20in%20Large%20Language,request%20made%20by%20the%20user."
+    ]
+}

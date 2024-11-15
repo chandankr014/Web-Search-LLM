@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My-LLM</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <div class="chat-container">
+        <header class="chat-header">
+            <h1 style="color: white;"><u>Web Search LLM</u></h1>
+            <small><i>developed by Chandan with &hearts;</i></small>
+        </header>
+
+        <div class="chat-box" id="chat-box">
+            <!-- Chat messages will appear here -->
+        </div>
+
+        <div class="controls">
+            <div class="input-group">
+                <input type="text" id="user-input" placeholder="Ask me Anything!">
+                <button onclick="sendMessage()" class="send-button">
+                    <img src="https://img.icons8.com/material-rounded/24/ffffff/send.png" alt="Send">
+                </button>
+            </div>
+
+            <div class="options-group">
+                <div class="option">
+                    <label for="n-option">N:</label>
+                    <select id="n-option">
+                        {% for i in range(1, 11) %}
+                        <option value="{{ i }}">{{ i }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+
+                <div class="option">
+                    <label for="top-n-option">Top N:</label>
+                    <select id="top-n-option">
+                        {% for i in range(1, 11) %}
+                        <option value="{{ i }}">{{ i }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+
+                <div class="option">
+                    <label for="model-option">Model:</label>
+                    <select id="model-option">
+                        {% for model in models %}
+                        <option value="{{ model }}">{{ model }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+
+                <div class="option">
+                    <label>Headless Mode:</label>
+                    <label class="switch">
+                        <input type="checkbox" id="headless-switch" checked>
+                        <span class="slider"></span>
+                    </label>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

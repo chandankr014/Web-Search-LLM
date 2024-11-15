@@ -1,0 +1,11 @@
+.venv
+.vscode
+venv
+vscode
+.ipynb
+*.ipynb
+.env
+questions.json
+TEMP.py
+__pycache__
+config.py

@@ -1,0 +1,919 @@
+<html lang="en" dir="ltr" prefix="content: https://purl.org/rss/1.0/modules/content/  dc: https://purl.org/dc/terms/  foaf: https://xmlns.com/foaf/0.1/  og: https://ogp.me/ns#  rdfs: https://www.w3.org/2000/01/rdf-schema#  schema: https://schema.org/  sioc: https://rdfs.org/sioc/ns#  sioct: https://rdfs.org/sioc/types#  skos: https://www.w3.org/2004/02/skos/core#  xsd: https://www.w3.org/2001/XMLSchema# " class="js dj_webkit dj_chrome dj_contentbox"><head>
+    <meta charset="utf-8">
+<meta name="Generator" content="Drupal  (https://www.drupal.org)">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="/themes/edutheme/favicon.ico" type="image/png">
+<link rel="alternate" hreflang="en" href="https://jaljeevanmission.gov.in/about_jjm">
+<link rel="canonical" href="https://jaljeevanmission.gov.in/about_jjm">
+<link rel="shortlink" href="https://jaljeevanmission.gov.in/node/1">
+<link rel="revision" href="https://jaljeevanmission.gov.in/about_jjm">
+
+    <title>Jal Jeevan Mission</title>
+    <link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?sjr1zq">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?sjr1zq">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?sjr1zq">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?sjr1zq">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?sjr1zq">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?sjr1zq">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?sjr1zq">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?sjr1zq">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?sjr1zq">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?sjr1zq">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/progress.module.css?sjr1zq">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?sjr1zq">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?sjr1zq">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/sticky-header.module.css?sjr1zq">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?sjr1zq">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?sjr1zq">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?sjr1zq">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?sjr1zq">
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tree-child.module.css?sjr1zq">
+<link rel="stylesheet" media="all" href="/themes/edutheme/css/jquery-ui.css?sjr1zq">
+
+    
+<!--[if lte IE 8]>
+<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
+<![endif]-->
+
+	<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Jal Jeevan Mission </title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="manifest" href="site.webmanifest">
+    <link rel="shortcut icon" type="images/x-icon" href="https://jaljeevanmission.gov.in//default/files/favicon-16x16.png">
+	
+
+
+    <!--------- CSS here ------>
+    <link rel="stylesheet" href="https://jaljeevanmission.gov.in//themes/edutheme/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://jaljeevanmission.gov.in//themes/edutheme/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://jaljeevanmission.gov.in//themes/edutheme/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="https://jaljeevanmission.gov.in//themes/edutheme/css/slicknav.css">
+    <link rel="stylesheet" href="https://jaljeevanmission.gov.in//themes/edutheme/css/themify-icons.css">
+    <link rel="stylesheet" href="https://jaljeevanmission.gov.in//themes/edutheme/css/slick.css">
+    <link rel="stylesheet" href="https://jaljeevanmission.gov.in//themes/edutheme/css/style.css">
+    <link rel="stylesheet" href="https://jaljeevanmission.gov.in//themes/edutheme/css/global.base.css">
+	<link rel="stylesheet" href="https://jaljeevanmission.gov.in//themes/edutheme/css/global-style.css">
+    <link rel="stylesheet" href="https://jaljeevanmission.gov.in//themes/edutheme/css/style-jjm.css">
+	<link rel="stylesheet" href="https://jaljeevanmission.gov.in//themes/edutheme/css/about-jjm.css">
+	<link rel="stylesheet" href="https://jaljeevanmission.gov.in//themes/edutheme/css/samwad.css">
+	<link rel="stylesheet" href="https://jaljeevanmission.gov.in//themes/edutheme/css/lightbox.min.css">
+	<!-- Google tag (gtag.js) -->
+<script type="text/javascript" charset="utf-8" src="https://js.arcgis.com/3.19/esri/nls/jsapi_en-gb.js"></script><script type="text/javascript" charset="utf-8" src="https://js.arcgis.com/3.19/esri/layers/VectorTileLayerImpl.js"></script><script type="text/javascript" charset="utf-8" src="https://js.arcgis.com/3.19/dojox/gfx/svg.js"></script><script type="text/javascript" charset="utf-8" src="https://js.arcgis.com/3.19/moment/locale/en-gb.js"></script><script type="text/javascript" charset="utf-8" src="https://js.arcgis.com/3.19/esri/dijit/Legend.js"></script><script type="text/javascript" charset="utf-8" src="https://js.arcgis.com/3.19/esri/dijit/Search.js"></script><script type="text/javascript" charset="utf-8" src="https://js.arcgis.com/3.19/dojox/gfx/filters.js"></script><script type="text/javascript" charset="utf-8" src="https://js.arcgis.com/3.19/dojox/gfx/svgext.js"></script><script type="text/javascript" charset="utf-8" src="https://js.arcgis.com/3.19/esri/promiseList.js"></script><script type="text/javascript" charset="utf-8" src="https://js.arcgis.com/3.19/esri/tasks/locator.js"></script><script type="text/javascript" charset="utf-8" src="https://js.arcgis.com/3.19/esri/styles/basic.js"></script><script type="text/javascript" charset="utf-8" src="https://js.arcgis.com/3.19/esri/tasks/AddressCandidate.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-1Y345E91CT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1Y345E91CT');
+</script>
+  </head>
+  <body class="path-node page-node-type-page has-glyphicons">
+  <a href="#" id="toTopBtn" class="text-replace js-cd-top cd-top--is-visible cd-top--fade-out" data-abc="true"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/top-arrow.svg" alt="Jal Jeevan Mission tap connection"></a>
+    
+      
+  
+	     <header>
+        <!----------- Header Start ------------->
+        <div class="header-area">
+            <div class="main-header ">
+                <div class="header-top top-bg d-none d-lg-block">
+                    <div class="container-fluid">
+                        <div class="col-xl-12">
+                            <div class="row d-flex justify-content-between align-items-center">
+                                <div class="col-md-6 header-info-left">
+                                    <ul>
+                                        <li><span>
+                                            <a href="https://www.india.gov.in/" target="_blank" title="External Website that opens in a new window"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/national_emblem.svg" alt="National Emblem" style="width: 26px;"></a></span><a href="https://www.india.gov.in/" target="_blank" title="External Website that opens in a new window">&nbsp;<span class="govlogo">GOVERNMENT OF INDIA</span></a></li>
+											<li><span>
+                                            <a href="https://amritmahotsav.nic.in/" target="_blank"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/logo_azadi.svg" style="width: 74px;padding:2px 0px 5px 0px;border-right: 1px solid #00000014;padding-right: 6px;" alt="Azadi"></a> 
+										
+											<a href="https://innovateindia.mygov.in/dekho-apna-desh/" target="_blank"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/ITUWTSA.png" alt="ITUWTSA" style="width: 74px;padding:2px 0px 5px 0px; border-right: 1px solid #00000014; padding-right: 6px;"></a>
+											
+											<a href="https://www.mygov.in/staysafeonline" target="_blank"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/sso.png" alt="SOS" style="width: 60px;padding:2px 0px 5px 0px"></a>
+											
+											</span>&nbsp;</li>
+											
+											
+
+                                    </ul>
+                                </div>
+                                <div class="col-md-6 header-info-right">
+                                    <ul class="header-social">
+                                        <!--------<li> <a href="#" class="loginlinks">Login</a>----------->
+										<!----------<li> <a href="https://ejalshakti.gov.in/JJM/JJM_Login.aspx?Ty=se" class="loginlinks" target="_blank" title="External Website that opens in a new window">Login</a>----------->
+
+                                           <!-------- <span class="sizechanger"><a id="text_resize_decrease" class="changer" title="Decrease font size" role="link">-A</a>
+                                            <a id="text_resize_reset" class="changer" title="Reset font size" role="link">A</a>
+                                            <a id="text_resize_increase" class="changer" title="Increase font size" role="link">+A</a>
+                                            </span>------------->
+
+                                           <!-----------<a target="_blank" href="hi.html" class="alink" title="हिन्दी site open in new window">हिन्दी</a> &nbsp;-----------> 
+										   <span class="top-social_media">&nbsp; 
+										    <a href="https://www.facebook.com/pages/category/Government-Organization/Jal-Jeevan-Mission-India-100947117940558/" target="_blank"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/fb.jpg" class="img-fluid" alt="FB"></a>&nbsp; 
+										   <a href="https://twitter.com/jaljeevan_" target="_blank"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/twitter.jpg" class="img-fluid" alt="twitter"></a>&nbsp;
+										   <a href="https://www.instagram.com/jaljeevanmission/" target="_blank"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/insta.jpg" class="img-fluid" alt="Instagram"></a>&nbsp;
+										   <a href="https://www.youtube.com/c/JalJeevanMission" target="_blank">
+										   <img src="https://jaljeevanmission.gov.in//themes/edutheme/images/youtube.jpg" class="img-fluid" alt="youtube"> </a></span> 
+										 
+										 
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="header-bottom header-sticky header_middle sticky fixed">
+                    <div class="container-fluid">
+                        <div class="row align-items-center ">
+                            <!-- Logo -->
+                            <div class="col-xs">
+                                <div class="logo">
+                                    <a href="https://jaljeevanmission.gov.in/"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/jjm_new_logo.svg" alt="JJM" style="width: 88px;"></a>
+                                </div>
+                            </div>
+                            <div class="col-sm-3 new-logo-text">
+                                <div class="logo mobile-768">
+                                    <h2 class="logo-text1">Jal Jeevan Mission</h2>
+                                   <a href="https://jalshakti-ddws.gov.in/"> Department of Drinking Water &amp; Sanitation <br>
+                                    Ministry of Jalshakti </a>
+                                </div>
+                            </div>
+                            <!------------<div class="col-sm-4 jjm-logo-mob">
+                                <div class="logo">
+                                  <a href="index.html"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/jjm_new_logo.svg" alt=""></a>
+                                </div>
+                            </div>-----------------> 
+                            <div class="col-xl-8 col-lg-8 col-md-8 ">
+                                <!--------- Main-menu --------------->
+                                <div class="main-menu f-right d-none d-lg-block logo-new1 ss">
+
+                                    <nav>
+                                        <ul id="navigation">
+                                            <li class="topics">
+                                                <a href="https://jaljeevanmission.gov.in/" class="topicsLink"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/home.png" alt="nav1"><span class="dsk">HOME</span></a>
+
+                                            </li>
+
+                                            <li class="about">
+                                                <a href="https://jaljeevanmission.gov.in/about_jjm" class="nav-2"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/water.png" alt="nav3"><span>ABOUT</span></a>
+
+                                            </li>
+                                            <li class="Dashboard">
+                                                <a href="https://ejalshakti.gov.in/jjmreport/JJMIndia.aspx" class="nav-3" target="_blank" title="External Website that opens in a new window"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/Dashboard.png" alt="ejalshakti Dashboard"><span>DASHBOARD</span></a>
+
+                                            </li>
+
+                                            <li class="document">
+                                                <a href="#" class="nav-4"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/document.png" alt="nav4"><span>DOCUMENTS</span></a>
+                                                <ul class="submenu">
+                                                    <li>
+                                                        <a href="https://jaljeevanmission.gov.in/letters_circulars">Letters / Circulars</a> 
+													</li>
+													<li>
+                                                        <a href="https://jaljeevanmission.gov.in/guidelines">Guidelines</a> 
+													</li>
+													<li>
+                                                        <a href="https://jaljeevanmission.gov.in/conferences">Conferences</a>
+													</li>
+													<li>
+                                                        <a href="https://jaljeevanmission.gov.in/jal-jeevan-samvad">JJM Samvad</a>
+													</li>
+													
+													<li>
+                                                        <a href="https://jalshakti-ddws.gov.in/tenders" target="_blank" title="External Website that opens in a new window">EOI / Tender</a>
+													</li>
+													
+													<li>
+                                                        <a href="https://jaljeevanmission.gov.in/training-calendar" style="max-content">Training calendar</a>
+													</li>
+													
+													<li>
+                                                        <a href="https://jaljeevanmission.gov.in/publication-report" style="max-content">Publications / Reports</a>
+													</li>
+													<li>
+                                                        <a href="https://jaljeevanmission.gov.in/functionality-report-2020" style="max-content">Functionality Reports 2020</a>
+													</li>
+													<li>
+                                                        <a href="https://jaljeevanmission.gov.in/functionality-reports" style="max-content">Functionality Reports 2022</a>
+													</li>
+													<li>
+                                                        <a href="https://jaljeevanmission.gov.in/iec-material-videos" style="max-content">IEC Material / Videos</a>
+													</li>
+													<li>
+                                                        <a href="https://jaljeevanmission.gov.in/jal-jeevan-survekshan" style="max-content">JJS-2023 Bulletins</a>
+													</li>
+													<li>
+														<a href="#" style="max-content">Water Quality</a>                                                                
+															<ul class="submenu1" style="display: block; left: -128px;">
+															<li><a href="https://jaljeevanmission.gov.in/wq/publications-report" class="contactt-text">Publications / Reports</a></li>
+															<li><a href="https://jaljeevanmission.gov.in/wq/conference" class="contactt-text">Conference</a></li>
+															<li><a href="https://jaljeevanmission.gov.in/wq/letter" class="contactt-text">Advisory / Letters</a></li>
+															<li><a href="https://jaljeevanmission.gov.in/wq/training" class="contactt-text">WQMIS Portal - User Guide</a></li>
+															</ul>                                               
+													</li>
+													<li>
+                                                        <a href="https://jaljeevanmission.gov.in/knowledge-sharing" style="max-content">Knowledge Sharing</a>
+													</li>
+													<li>
+                                                        <a href="https://jaljeevanmission.gov.in/impact-studies" style="max-content">Impact Studies</a>
+													</li>
+													<li>
+                                                        <a href="https://jaljeevanmission.gov.in/o-and-m-reports" style="max-content">O&amp;M Policies</a>
+													</li>
+													
+													
+													
+                                                </ul>
+                                            </li>
+
+                                         <!--   <li class="people">
+                                                <a href="https://jaljeevanmission.gov.in/media" class="nav-5 peopleGroups"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/media.png" alt="nav4"><span>MEDIA</span></a>
+											</li>
+											<li class="people">
+                                            <a href="https://jaljeevanmission.gov.in/digital-academy" class="nav-8"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/ditital_academy.png" alt="nav7" style="    border-radius: 0;    padding: 8px 7px 10px 8px;    transition: background 0.7s ease 0s;    background-image: url(&quot;https://jaljeevanmission.gov.in//themes/edutheme/images/education.png&quot;);
+"><span>ACADEMY</span></a>
+											</li> -->
+											
+
+                                            <li class="egov">
+                                                <a href="#" class="indGlance nav-6"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/contact.png" alt="nav5"><span>CONTACT
+                                                                US</span></a>
+                                                <ul class="submenu" style="display: block; left: -128px;">
+                                                    <li><a href="https://jaljeevanmission.gov.in/national_jal_jeevan_mission" class="contactt-text">National Jal Jeevan Mission</a></li>
+                                                    <li><a href="https://jaljeevanmission.gov.in/state_water_sanitation_mission" class="contactt-text">State Water Sanitation Mission</a></li>
+                                                    <li><a href="https://jaljeevanmission.gov.in/district_water_sanitation_mission" class="contactt-text">District Water Sanitation Mission</a></li>
+                                                </ul>
+                                            </li>
+
+                                        </ul>
+                                    </nav>
+                                </div>
+                            </div>
+
+                            <!-------------- Mobile Menu --------------->
+                            <div class="col-12">
+                                <div class="mobile_menu d-block d-lg-none"><div class="slicknav_menu"><a href="#" aria-haspopup="true" role="button" tabindex="0" class="slicknav_btn slicknav_collapsed"><span class="slicknav_menutxt">MENU</span><span class="slicknav_icon"><span class="slicknav_icon-bar"></span><span class="slicknav_icon-bar"></span><span class="slicknav_icon-bar"></span></span></a><ul class="slicknav_nav slicknav_hidden" aria-hidden="true" role="menu" style="display: none;">
+                                            <li class="topics">
+                                                <a href="https://jaljeevanmission.gov.in/" class="topicsLink" role="menuitem" tabindex="-1"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/home.png" alt="nav1"><span class="dsk">HOME</span></a>
+
+                                            </li>
+
+                                            <li class="about">
+                                                <a href="https://jaljeevanmission.gov.in/about_jjm" class="nav-2" role="menuitem" tabindex="-1"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/water.png" alt="nav3"><span>ABOUT</span></a>
+
+                                            </li>
+                                            <li class="Dashboard">
+                                                <a href="https://ejalshakti.gov.in/jjmreport/JJMIndia.aspx" class="nav-3" target="_blank" title="External Website that opens in a new window" role="menuitem" tabindex="-1"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/Dashboard.png" alt="ejalshakti Dashboard"><span>DASHBOARD</span></a>
+
+                                            </li>
+
+                                            <li class="document slicknav_collapsed slicknav_parent"><a href="#" role="menuitem" aria-haspopup="true" tabindex="-1" class="slicknav_item slicknav_row">
+                                                <a href="#" class="nav-4" tabindex="-1"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/document.png" alt="nav4"><span>DOCUMENTS</span></a>
+                                                <span class="slicknav_arrow">+</span></a><ul class="submenu slicknav_hidden" role="menu" aria-hidden="true" style="display: none;">
+                                                    <li>
+                                                        <a href="https://jaljeevanmission.gov.in/letters_circulars" role="menuitem" tabindex="-1">Letters / Circulars</a> 
+													</li>
+													<li>
+                                                        <a href="https://jaljeevanmission.gov.in/guidelines" role="menuitem" tabindex="-1">Guidelines</a> 
+													</li>
+													<li>
+                                                        <a href="https://jaljeevanmission.gov.in/conferences" role="menuitem" tabindex="-1">Conferences</a>
+													</li>
+													<li>
+                                                        <a href="https://jaljeevanmission.gov.in/jal-jeevan-samvad" role="menuitem" tabindex="-1">JJM Samvad</a>
+													</li>
+													
+													<li>
+                                                        <a href="https://jalshakti-ddws.gov.in/tenders" target="_blank" title="External Website that opens in a new window" role="menuitem" tabindex="-1">EOI / Tender</a>
+													</li>
+													
+													<li>
+                                                        <a href="https://jaljeevanmission.gov.in/training-calendar" style="max-content" role="menuitem" tabindex="-1">Training calendar</a>
+													</li>
+													
+													<li>
+                                                        <a href="https://jaljeevanmission.gov.in/publication-report" style="max-content" role="menuitem" tabindex="-1">Publications / Reports</a>
+													</li>
+													<li>
+                                                        <a href="https://jaljeevanmission.gov.in/functionality-report-2020" style="max-content" role="menuitem" tabindex="-1">Functionality Reports 2020</a>
+													</li>
+													<li>
+                                                        <a href="https://jaljeevanmission.gov.in/functionality-reports" style="max-content" role="menuitem" tabindex="-1">Functionality Reports 2022</a>
+													</li>
+													<li>
+                                                        <a href="https://jaljeevanmission.gov.in/iec-material-videos" style="max-content" role="menuitem" tabindex="-1">IEC Material / Videos</a>
+													</li>
+													<li>
+                                                        <a href="https://jaljeevanmission.gov.in/jal-jeevan-survekshan" style="max-content" role="menuitem" tabindex="-1">JJS-2023 Bulletins</a>
+													</li>
+													<li class="slicknav_collapsed slicknav_parent"><a href="#" role="menuitem" aria-haspopup="true" tabindex="-1" class="slicknav_item slicknav_row">
+														<a href="#" style="max-content" tabindex="-1">Water Quality</a>                                                                
+															<span class="slicknav_arrow">+</span></a><ul class="submenu1 slicknav_hidden" style="display: none; left: -128px;" role="menu" aria-hidden="true">
+															<li><a href="https://jaljeevanmission.gov.in/wq/publications-report" class="contactt-text" role="menuitem" tabindex="-1">Publications / Reports</a></li>
+															<li><a href="https://jaljeevanmission.gov.in/wq/conference" class="contactt-text" role="menuitem" tabindex="-1">Conference</a></li>
+															<li><a href="https://jaljeevanmission.gov.in/wq/letter" class="contactt-text" role="menuitem" tabindex="-1">Advisory / Letters</a></li>
+															<li><a href="https://jaljeevanmission.gov.in/wq/training" class="contactt-text" role="menuitem" tabindex="-1">WQMIS Portal - User Guide</a></li>
+															</ul>                                               
+													</li>
+													<li>
+                                                        <a href="https://jaljeevanmission.gov.in/knowledge-sharing" style="max-content" role="menuitem" tabindex="-1">Knowledge Sharing</a>
+													</li>
+													<li>
+                                                        <a href="https://jaljeevanmission.gov.in/impact-studies" style="max-content" role="menuitem" tabindex="-1">Impact Studies</a>
+													</li>
+													<li>
+                                                        <a href="https://jaljeevanmission.gov.in/o-and-m-reports" style="max-content" role="menuitem" tabindex="-1">O&amp;M Policies</a>
+													</li>
+													
+													
+													
+                                                </ul>
+                                            </li>
+
+                                         <!--   <li class="people">
+                                                <a href="https://jaljeevanmission.gov.in/media" class="nav-5 peopleGroups"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/media.png" alt="nav4"><span>MEDIA</span></a>
+											</li>
+											<li class="people">
+                                            <a href="https://jaljeevanmission.gov.in/digital-academy" class="nav-8"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/ditital_academy.png" alt="nav7" style="    border-radius: 0;    padding: 8px 7px 10px 8px;    transition: background 0.7s ease 0s;    background-image: url(&quot;https://jaljeevanmission.gov.in//themes/edutheme/images/education.png&quot;);
+"><span>ACADEMY</span></a>
+											</li> -->
+											
+
+                                            <li class="egov slicknav_collapsed slicknav_parent"><a href="#" role="menuitem" aria-haspopup="true" tabindex="-1" class="slicknav_item slicknav_row">
+                                                <a href="#" class="indGlance nav-6" tabindex="-1"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/contact.png" alt="nav5"><span>CONTACT
+                                                                US</span></a>
+                                                <span class="slicknav_arrow">+</span></a><ul class="submenu slicknav_hidden" style="display: none; left: -128px;" role="menu" aria-hidden="true">
+                                                    <li><a href="https://jaljeevanmission.gov.in/national_jal_jeevan_mission" class="contactt-text" role="menuitem" tabindex="-1">National Jal Jeevan Mission</a></li>
+                                                    <li><a href="https://jaljeevanmission.gov.in/state_water_sanitation_mission" class="contactt-text" role="menuitem" tabindex="-1">State Water Sanitation Mission</a></li>
+                                                    <li><a href="https://jaljeevanmission.gov.in/district_water_sanitation_mission" class="contactt-text" role="menuitem" tabindex="-1">District Water Sanitation Mission</a></li>
+                                                </ul>
+                                            </li>
+
+                                        </ul></div></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+
+
+			
+				 	
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    <main>
+
+        <!-- Slider start -->
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+
+            <div class="carousel-inner" style="border-top: 1px solid #ec7026;">
+                <div class="carousel-item active">
+                    <img class="d-block w-100 img-fluid" src="https://jaljeevanmission.gov.in//themes/edutheme/images/inner_page_img.jpg" alt="First slide">
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Slider end -->
+        <div class="bread_crumbs">
+            <!-----<div class="wrapper"><a href="/">Home</a><span property="schema:name">About JJM</span>
+</div>-->
+        </div>
+        <section class="upcoming-classes-innerpage">
+            <div class="container bg-new">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="single-travel-boxes">
+                            <div class="page-wrapper">
+                              
+                                <div class="container">
+																								<h2 class=" page-text-heading" style="text-transform:capitalize;"><span property="schema:name">About JJM</span>
+ <hr></h2>
+																  <div class="region region-content">
+      <article data-history-node-id="1" role="article" about="/about_jjm" typeof="schema:WebPage" class="page full clearfix">
+
+  
+      <span property="schema:name" content="About JJM" class="hidden"></span>
+
+
+  
+  <div class="content">
+    
+            <div property="schema:text" class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><section class="upcoming-classes-innerpage">
+<div class="container bg-new">
+<div class="row">
+<div class="col-md-12">
+<div class="single-travel-boxes">
+<div class="page-wrapper">
+<section id="vision">
+<h2 class="page-text-heading">Vision</h2>
+
+<p class="page-text">Every rural household has drinking water supply in adequate quantity of prescribed quality on regular and long-term basis at affordable service delivery charges leading to improvement in living standards of rural communities.</p>
+</section>
+
+<section id="mission">
+<h2 class="page-text-heading">Mission</h2>
+
+<p class="page-text">Jal Jeevan Mission is to assist, empower and facilitate:</p>
+
+<ul>
+	<li class="page-text">States/ UTs in planning of participatory rural water supply strategy for ensuring potable drinking water security on long-term basis to every rural household and public institution, viz. GP building, School, Anganwadi centre, Health centre, wellness centres, etc.</li>
+	<li class="page-text">States/ UTs for creation of water supply infrastructure so that every rural household has Functional Tap Connection (FHTC) by 2024 and water in adequate quantity of prescribed quality is made available on regular basis.</li>
+	<li class="page-text">States/ UTs to plan for their drinking water security</li>
+	<li class="page-text">GPs/ rural communities to plan, implement, manage, own, operate and maintain their own in-village water supply systems</li>
+	<li class="page-text">States/ UTs to develop robust institutions having focus on service delivery and financial sustainability of the sector by promoting utility approach</li>
+	<li class="page-text">Capacity building of the stakeholders and create awareness in community on significance of water for improvement in quality of life</li>
+	<li class="page-text">In making provision and mobilization of financial assistance to States/ UTs for implementation of the mission.</li>
+</ul>
+</section>
+
+<section id="objectives">
+<h2 class="page-text-heading">Objectives</h2>
+
+<p class="page-text">The broad objectives of the Mission are:</p>
+
+<ul>
+	<li class="page-text">To provide FHTC to every rural household.</li>
+	<li class="page-text">To prioritize provision of FHTCs in qualityaffected areas, villages in drought prone and desert areas, Sansad Adarsh Gram Yojana (SAGY) villages, etc.</li>
+	<li class="page-text">To provide functional tap connection to Schools, Anganwadi centres, GP buildings, Health centres, wellness centres and community buildings</li>
+	<li class="page-text">To monitor functionality of tap connections.</li>
+	<li class="page-text">To promote and ensure voluntary ownership among local community by way of contribution in cash, kind and/ or labour and voluntary labour (shramdaan)</li>
+	<li class="page-text">To assist in ensuring sustainability of water supply system, i.e. water source, water supply infrastructure, and funds for regular O&amp;M</li>
+	<li class="page-text">To empower and develop human resource in the sector such that the demands of construction, plumbing, electrical, water quality management, water treatment, catchment protection, O&amp;M, etc. are taken care of in short and long term</li>
+	<li class="page-text">To bring awareness on various aspects and significance of safe drinking water and involvement of stakeholders in manner that make water everyone's business</li>
+</ul>
+</section>
+
+<section id="components">
+<h2 class="page-text-heading">Components under JJM</h2>
+
+<p class="page-text">The following components are supported under JJM</p>
+&nbsp;
+
+<p class="page-text">Efforts should be made to source funds from different sources/ programmes and convergence is the key</p>
+
+<ul>
+	<li class="page-text">Development of in-village piped water supply infrastructure to provide tap water connection to every rural household</li>
+	<li class="page-text">Development of reliable drinking water sources and/ or augmentation of existing sources to provide long-term sustainability of water supply system</li>
+	<li class="page-text">Wherever necessary, bulk water transfer, treatment plants and distribution network to cater to every rural household</li>
+	<li class="page-text">Technological interventions for removal of contaminants where water quality is an issue</li>
+	<li class="page-text">Retrofitting of completed and ongoing schemes to provide FHTCs at minimum service level of 55 lpcd;</li>
+	<li class="page-text">Greywater management</li>
+	<li class="page-text">Support activities, i.e. IEC, HRD, training, development of utilities, water quality laboratories, water quality testing &amp; surveillance, R&amp;D, knowledge centre, capacity building of communities, etc.</li>
+	<li class="page-text">Any other unforeseen challenges/ issues emerging due to natural disasters/ calamities which affect the goal of FHTC to every household by 2024, as per guidelines of Ministry of Finance on Flexi Funds</li>
+</ul>
+</section>
+
+<div class="more-float"><button class="btn btn-primary btn-sm mt-4 mb-4 ml-4" type="button">View More</button></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+      
+  </div>
+
+</article> <br>
+
+
+  </div>
+
+                                </div>
+								
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+</main>
+  </div>
+
+    <!-- --->
+   
+	     
+
+
+   
+<footer>
+ <div class="col-lg-12" style="background-color:#504c4c;">
+        <div class="container">
+
+            <div class="row">
+                <div class="col sitefooter"> &nbsp; &nbsp; 
+				<a href="https://jaljeevanmission.gov.in/website-policies">Website Policies</a> &nbsp; &nbsp; <img src="https://jaljeevanmission.gov.in//themes/edutheme/images/line.png" alt="Line">
+				
+				<a href="https://jaljeevanmission.gov.in/accessibility-statement">Accessibility Statement</a> <img src="https://jaljeevanmission.gov.in//themes/edutheme/images/line.png" alt="Line">
+				
+				<!-----<a href="https://jaljeevanmission.gov.in/web-information-manager">Web Information Manager</a><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/line.png">---------->
+				
+				<a href="https://jaljeevanmission.gov.in/site-map">Sitemap</a><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/line.png" alt="Line">
+				</div>
+            </div>
+        </div>
+    </div>
+    
+	
+	<div class="footertext">
+        <div class="container">
+            <div class="row ">
+                <div class="col-xl-4 col-lg-4 col-md-6 mt-4 mb-2">
+                    <span class="contactustext">Contact Us</span><br><span class="p-footer"> Office of Mission Director<br> National Jal Jeevan Mission (NJJM)<br> Department Of Drinking Water And Sanitation<br> Ministry Of Jal Shakti
+                    <br> 4th Floor, Pandit Deendayal Antyodaya Bhawan, CGO Complex, Lodhi Road, New Delhi-110003</span>
+                    <span class="footer-space p-footer"><br><br> Phone-011-24362705, 
+                     Fax-011-24361062<br><br> Email-njjm[dot]ddws[at]gov[dot]in</span>
+
+                    <br><br>
+                    <span class="img-fluid">                            
+						<a href="https://www.facebook.com/pages/category/Government-Organization/Jal-Jeevan-Mission-India-100947117940558/" target="_blank"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/fb.jpg" class="img-fluid" alt="fb"></a>&nbsp; 
+						<a href="https://twitter.com/jaljeevan_" target="_blank"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/twitter.jpg" class="img-fluid" alt="twitter"></a>&nbsp;
+						<a href="https://www.instagram.com/jaljeevanmission/" target="_blank"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/insta.jpg" class="img-fluid" alt="instagram"></a>&nbsp;
+						<a href="https://www.youtube.com/c/JalJeevanMission" target="_blank">
+						<img src="https://jaljeevanmission.gov.in//themes/edutheme/images/youtube.jpg" class="img-fluid" alt="youtube"> </a>
+					</span> 
+					
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-6"></div>                
+				<div class="col-xl-4 col-lg-4 col-md-6 mt-4">
+                    <span class="p-footer">
+                        Website Content Managed by<br> Department of Drinking Water and Sanitation, <br>Ministry of Jal Shakti,<br> Designed, Developed and Hosted by<br> National Informatics Centre( NIC )</span>
+					
+					
+                    <p class="nic-logo mb-4"><img src="https://jaljeevanmission.gov.in//themes/edutheme/images/nic-logo.png" alt="NIC"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+	
+    
+    
+    <!------ JS here ------->
+
+    <!------- Jquery, Popper, Bootstrap --------->
+	
+  
+    <script src="https://jaljeevanmission.gov.in//themes/edutheme/js/jquery-3.7.1.min.js"></script>
+    <script src="https://jaljeevanmission.gov.in//themes/edutheme/js/popper.min.js"></script>
+    <!-------- <script src="https://jaljeevanmission.gov.in//themes/edutheme/js/bootstrap.js"></script> ------->
+    <script src="https://jaljeevanmission.gov.in//themes/edutheme/js/bootstrap.min.js"></script>
+    <script src="https://jaljeevanmission.gov.in//themes/edutheme/js/jquery.slicknav.min.js"></script>
+    <script src="https://jaljeevanmission.gov.in//themes/edutheme/js/slick.min.js"></script>
+
+    <script src="https://jaljeevanmission.gov.in//themes/edutheme/js/jquery.ajaxchimp.min.js"></script>
+    <script src="https://jaljeevanmission.gov.in//themes/edutheme/js/main.js"></script>
+    <script src="https://jaljeevanmission.gov.in//themes/edutheme/js/lightbox.min.js"></script>
+   <!---- <script src="https://jaljeevanmission.gov.in//themes/edutheme/js/libs_aos.js"></script>---->
+   
+   
+   <script src="https://jaljeevanmission.gov.in//themes/edutheme/js/jquery-3.6.0.min.js"></script>
+   <!-- <script src="https://jaljeevanmission.gov.in//themes/edutheme/js/jquery.dataTables.min-2.js"></script> -->
+</footer><div id="lightboxOverlay" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="><div class="lb-nav"><a class="lb-prev" href=""></a><a class="lb-next" href=""></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div>
+
+ 	  
+  
+	
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/1","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"user":{"uid":0,"permissionsHash":"2d2ac22fb511d4ec7826ec7718ff2fa34d7af23d5e8f410177807f9f9541647e"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.5.1"></script>
+<script src="/core/assets/vendor/underscore/underscore-min.js?v=1.13.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=8.9.20"></script>
+<script src="/core/misc/drupal.js?v=8.9.20"></script>
+<script src="/core/misc/drupal.init.js?v=8.9.20"></script>
+<script src="/themes/bootstrap/js/drupal.bootstrap.js?sjr1zq"></script>
+<script src="/themes/bootstrap/js/attributes.js?sjr1zq"></script>
+<script src="/themes/bootstrap/js/theme.js?sjr1zq"></script>
+<script src="/themes/edutheme/js/jquery.scrollUp.min.js?v=8.9.20"></script>
+<script src="/themes/edutheme/js/mBox.js?v=8.9.20"></script>
+<script src="/libraries/bootstrap/js/modal.js?sjr1zq"></script>
+<script src="/libraries/bootstrap/js/tooltip.js?sjr1zq"></script>
+<script src="/libraries/bootstrap/js/popover.js?sjr1zq"></script>
+<script src="/libraries/colorbox/jquery.colorbox.js?sjr1zq"></script>
+<script src="/themes/bootstrap/js/popover.js?sjr1zq"></script>
+<script src="/themes/bootstrap/js/tooltip.js?sjr1zq"></script>
+
+	
+<script>
+function hindiClick(){
+	document.getElementById("firstDiv").style.display='none';
+	document.getElementById("firstDiv11").style.display='block';
+	}
+	
+
+	function englishClick(){
+	document.getElementById("firstDiv11").style.display='none';
+	document.getElementById("firstDiv").style.display='block';
+	}
+</script>	
+	
+ 
+ 
+<script>
+$.noConflict();
+jQuery(document).ready(function($){
+MIS_rec1 = [];
+var protocol = window.location.protocol;
+if (protocol == "http:") {
+url = 'http://ejalshakti.gov.in/mRWSRestService/RestServiceImpl.svc/GetHouseHoldConnectionDetails ';
+}
+else {
+url = 'https://ejalshakti.gov.in/mRWSRestService/RestServiceImpl.svc/GetHouseHoldConnectionDetails';
+}
+data = 'uid=13E1741553F5F99FB0141086567EBCEF&pwd=4FF1C29DF0EE798A3ED23C9144C343AB';
+node = 'nodes';
+$.ajax({
+type: 'POST',
+url: url,
+data: data,
+crossDomain: true,
+contentType: "application/x-www-form-urlencoded; charset=UTF-8",
+dataType: "xml",
+async: false,
+success: function (data) {
+var count = 0;
+var cnt = 0;
+var k = 0;
+MIScontent = data.getElementsByTagName(node);
+MIS_rec = [];
+try {
+for (var i = 0; i < MIScontent.length; i++) {
+MIS_rec[i] = {};
+var columns = MIScontent[i].getElementsByTagName("*");
+for (var j = 0; j < columns.length; j++) {
+if (MIScontent[i].getElementsByTagName(columns[j].tagName)[0].childNodes.length > 0) {
+if (columns[j].tagName != 'node') {
+if (count == 0) {
+cnt++;
+}
+MIS_rec[i][columns[j].tagName] = MIScontent[i].getElementsByTagName(columns[j].tagName)[k].childNodes[0].data;
+}
+else {
+if (cnt >= 1) {
+if (count == 0) {
+count++;
+k = 1;
+}
+else {
+k++;
+}
+MIS_rec1.push({
+TotalHousehold: MIS_rec[0].hh,
+TotalHC: MIS_rec[0].hc,
+TotalHC2019: MIS_rec[0].hc1920,
+updatedon:MIS_rec[0].updatedon
+});
+}
+}
+}
+}
+MIS_rec1.push({
+TotalHousehold: MIS_rec[0].hh,
+TotalHC: MIS_rec[0].hc,
+TotalHC2019: MIS_rec[0].hc1920,
+updatedon:MIS_rec[0].updatedon
+});
+}
+fillColorOnMapSatewise();
+counter();
+}
+catch (e) {
+}
+stateinfo=MIS_rec1;
+var tot_TotalHousehold=0;
+var tot_TotalHC=0;
+var tot_TotalHC2019=0;
+var per='0.00';
+var updatedon='';
+for (var i = 0; i < stateinfo.length; i++) {
+tot_TotalHousehold += parseInt(stateinfo[i].TotalHousehold);
+tot_TotalHC += parseInt(stateinfo[i].TotalHC);
+tot_TotalHC2019 += parseInt(stateinfo[i].TotalHC2019);
+updatedon=stateinfo[i].updatedon;
+}
+per=parseFloat(parseInt(tot_TotalHC)*100/parseInt(tot_TotalHousehold)).toFixed(2)+' %';
+$("#lblhousehold").html(tot_TotalHousehold)
+$("#lblhouseconn").html(tot_TotalHC)
+$("#lblhouseholdperc").html(per);
+$("#lblupdatedon").html(updatedon);
+$("#lblupdatedon_map").html(updatedon);
+counter();
+},
+failure: function(jqXHR, textStatus, errorThrown) {
+alert("error" + textStatus);
+}
+});
+function counter() {
+
+$('.count').each(function () {
+$(this).prop('Counter', 0).animate({
+Counter: $(this).text()
+}, {
+duration: 4000,
+easing: 'swing',
+step: function (now) {
+$(this).text(Math.ceil(now));
+if (now > 0) {
+var commaNum = numberWithCommas($.trim(parseInt(now)));
+$(this).text($.trim(commaNum));
+}
+}
+});
+});
+}
+function numberWithCommas(number) {
+x = number;
+if ((x == "") || (x == "0")) {
+return number;
+}
+x = x.toString();
+var afterPoint = '';
+if (x.indexOf('.') > 0)
+afterPoint = x.substring(x.indexOf('.'), x.length);
+if (!isNaN(x) && x < 0) {
+return number;
+}
+x = Math.floor(x);
+x = x.toString();
+if (x == "NaN") {
+return number;
+}
+else {
+var lastThree = x.substring(x.length - 3);
+var otherNumbers = x.substring(0, x.length - 3);
+if (otherNumbers != '')
+lastThree = ',' + lastThree;
+var res;
+res = otherNumbers.replace(/\B(?=(\d{2})+(?!\d))/g, ",") + lastThree;
+return res;
+}
+};
+
+
+$(window).scroll(function(){
+  var sticky = $('.sticky'),
+      scroll = $(window).scrollTop();
+
+  if (scroll >= 100) sticky.addClass('fixed');
+  else sticky.removeClass('fixed');
+});
+
+$(window).scroll(function() {
+            if ($(this).scrollTop() > 20) {
+                $('#toTopBtn').fadeIn();
+            } else {
+                $('#toTopBtn').fadeOut();
+            }
+        });
+
+        $('#toTopBtn').click(function() {
+            $("html, body").animate({
+                scrollTop: 0
+            }, 1000);
+            return false;
+        });
+$(window).on('load', function () {
+   $('#captcha--content').addClass('show');
+})
+
+})
+</script> 
+
+<script type="text/javascript">
+        function getprintDate() {
+            var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
+                "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
+            ];
+
+            var today = new Date();
+            var dd = today.getDate();
+            var mm = today.getMonth() + 1; //January is 0!
+            var yyyy = today.getFullYear();
+
+            if (dd < 10) {
+                dd = '0' + dd;
+            }
+            if (mm < 10) {
+                mm = '0' + mm;
+            }
+            var today = dd + ' ' + monthNames[today.getMonth()] + ' ' + yyyy;
+            //var today = dd + '/' + mm + '/' + yyyy;
+            return today;
+        }
+        
+    </script>
+	
+    <script src="themes/edutheme/map/js/init.js" type="text/javascript"></script>
+    <script src="themes/edutheme/map/js/jquery.min.js" type="text/javascript"></script>
+    <script src="themes/edutheme/map/js/legend.js" type="text/javascript"></script>
+    <script src="themes/edutheme/map/js/JJMWebsite_Map.js" type="text/javascript"></script>
+    
+    	
+    <script type="text/javascript">
+       jQuery(document).ready(function ($) {
+            init_dashboard();
+        });
+
+        function init_dashboard() {
+            $("#info").hide();
+          
+            var jkColor = [255, 255, 255, 0.5];//[255, 87, 51,1]
+            var stLayerColor = [139, 69, 19, 1];
+            //var stLayerColor = [78, 121, 190, 1];
+            var dtLayerWidth = 0.2;
+            var stLayerWidth = 0.5;
+            var distLayerColor = [78, 121, 190, 0.8];
+            var distLayerColor2 = [239, 239, 239, 1];
+            var distLayerColorVill = [255, 0, 0, 1];
+            var dtLayerWidthVill = 1.0;
+            var villLayerColor = '#000000';
+            var villLayerWidth = 1.0;
+            function getPageName(url) {
+                var index = url.lastIndexOf("/") + 1;
+                var filenameWithExtension = url.substr(index);
+                var filename = filenameWithExtension.split(".")[0]; // <-- added this line
+                return filename;                                    // <-- added this line
+            }
+            var URL = document.location.href;
+            PageName = "JJMIndiaWebsite";
+            var CatArr;
+            var SubCatArr;
+            var ParamArr;
+            var param;
+            Lang = sessionStorage.getItem("Lang");
+            sessionStorage.clear();
+            if (typeof (Lang) == "undefined" || Lang == null) {
+                Lang = 'en';
+                sessionStorage.setItem("Lang", Lang);
+            }
+            else {
+                Lang = Lang;
+                sessionStorage.setItem("Lang", Lang);
+            }
+
+            if (Lang == 'en') {
+                $("#lnkhi").css("display", "block");
+                $("#lnken").css("display", "none");
+            }
+            else {
+                $("#lnkhi").css("display", "none");
+                $("#lnken").css("display", "block");
+            }
+            G_StName = 'India';
+            G_StCode = '0';
+
+            initMap(document.getElementById("map"), stLayerColor, stLayerWidth, distLayerColor, dtLayerWidth, jkColor, "0", "0", "0", "0", G_StName, document.getElementById("info"));
+            initMap_Beasline(document.getElementById("map_15082019"), stLayerColor, stLayerWidth, distLayerColor, dtLayerWidth, jkColor, "0", "1", "0", "0", G_StName, document.getElementById("info"));
+            $(".se-pre-con2").fadeOut();
+            $("#imgLoading2").fadeOut();
+           // document.getElementById("lblMap_head").innerHTML  = getCurrentDate();
+            //counter(0, 0);
+        }
+        function numberWithCommas(number, G_Cat, G_SubCat) {
+            x = number;
+            if ((x == "") || (x == "0")) {
+                return number;
+            }
+            x = x.toString();
+            var afterPoint = '';
+            if (x.indexOf('.') > 0)
+                afterPoint = x.substring(x.indexOf('.'), x.length);
+            if (!isNaN(x) && x < 0) {
+                return number;
+            }
+            x = Math.floor(x);
+            x = x.toString();
+
+            if (x == "NaN") {
+                return number;
+            }
+            else {
+                var lastThree = x.substring(x.length - 3);
+                var otherNumbers = x.substring(0, x.length - 3);
+                if (otherNumbers != '')
+                    lastThree = ',' + lastThree;
+                var res;
+                if ((G_Cat == 0) && (G_SubCat == 1)) {
+                    res = otherNumbers.replace(/\B(?=(\d{2})+(?!\d))/g, ",") + lastThree + afterPoint;
+                }
+                else {
+                    res = otherNumbers.replace(/\B(?=(\d{2})+(?!\d))/g, ",") + lastThree;
+                }
+                return res;
+            }
+        };
+       
+    </script>
+
+
+<script type="text/javascript" src="/bnith__ReQ1wuodVdFlw8z-N1iD1NyS-5r_dDVEruib3wLIRComJl-bwZZRnlglsoSHOxzOWSKZUUKjtFA="></script> <script language="JavaScript" type="text/javascript">const _0x35e8=['visitorId','18127kSXadA','356575NPKVMA','7306axxsAH','get','657833TzFjkt','717302TQdBjl','34lMHocq','x-bni-rncf=1726428495604;expires=Thu, 01 Jan 2037 00:00:00 UTC;path=/;','61XMWbpU','cookie',';expires=Thu, 01 Jan 2037 00:00:00 UTC;path=/;','then','651866OSUgMa','811155xdatvf','x-bni-fpc='];function _0x258e(_0x5954fe,_0x43567d){return _0x258e=function(_0x35e81f,_0x258e26){_0x35e81f=_0x35e81f-0x179;let _0x1280dc=_0x35e8[_0x35e81f];return _0x1280dc;},_0x258e(_0x5954fe,_0x43567d);}(function(_0x5674de,_0xdcf1af){const _0x512a29=_0x258e;while(!![]){try{const _0x55f636=parseInt(_0x512a29(0x17b))+-parseInt(_0x512a29(0x179))*parseInt(_0x512a29(0x17f))+-parseInt(_0x512a29(0x183))+-parseInt(_0x512a29(0x184))+parseInt(_0x512a29(0x187))*parseInt(_0x512a29(0x17d))+parseInt(_0x512a29(0x188))+parseInt(_0x512a29(0x17c));if(_0x55f636===_0xdcf1af)break;else _0x5674de['push'](_0x5674de['shift']());}catch(_0xd3a1ce){_0x5674de['push'](_0x5674de['shift']());}}}(_0x35e8,0x6b42d));function getClientIdentity(){const _0x47e86b=_0x258e,_0x448fbc=FingerprintJS['load']();_0x448fbc[_0x47e86b(0x182)](_0x4bb924=>_0x4bb924[_0x47e86b(0x17a)]())[_0x47e86b(0x182)](_0x2f8ca1=>{const _0x44872c=_0x47e86b,_0xa48f50=_0x2f8ca1[_0x44872c(0x186)];document[_0x44872c(0x180)]=_0x44872c(0x185)+_0xa48f50+_0x44872c(0x181),document[_0x44872c(0x180)]=_0x44872c(0x17e);});}getClientIdentity();</script>
+
+
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button type="button" id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div></body></html>

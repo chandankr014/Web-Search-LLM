@@ -1,0 +1,20 @@
+{
+    "urls": [
+        "https://www.singlestore.com/blog/complete-guide-to-evaluating-large-language-models/",
+        "https://www.analyticsvidhya.com/blog/2023/05/how-to-evaluate-a-large-language-model-llm/"
+    ],
+    "all_url": [
+        "https://research.aimultiple.com/large-language-model-evaluation/#:~:text=Create%20diverse%20and%20representative%20reference,and%20coverage%20of%20reference%20data.",
+        "https://www.analyticsvidhya.com/blog/2023/05/how-to-evaluate-a-large-language-model-llm/#:~:text=How%20to%20evaluate%20LLM%20answers,gold%20standard%20or%20human%20judgment.",
+        "https://www.singlestore.com/blog/complete-guide-to-evaluating-large-language-models/",
+        "https://studyx.ai/homework/100965173-how-do-you-measure-the-performance-of-a-language-model-ability-to-analyze-prompts#:~:text=Choose%20appropriate%20metrics%20like%20perplexity,measure%20the%20language%20model's%20performance.&text=Collect%20a%20set%20of%20prompts,model%2Dgenerated%20responses%20for%20evaluation.&text=Compute%20the%20perplexity%20of%20the,well%20it%20predicts%20the%20prompts.",
+        "https://raga.ai/blogs/llm-evaluation#:~:text=Intrinsic%20metrics%3A%20Intrinsic%20metrics%20measure,and%20coherence%20of%20LLM%20outputs.",
+        "https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation#:~:text=Answer%20Relevancy%3A%20Determines%20whether%20an,fake%20or%20made%2Dup%20information.",
+        "https://www.analyticsvidhya.com/blog/2023/05/how-to-evaluate-a-large-language-model-llm/",
+        "https://www.mattambrogi.com/posts/summary-evals/#:~:text=Compare%20the%20summary%20to%20the,or%20redundant%20information%20it%20contains.",
+        "https://www.singlestore.com/blog/complete-guide-to-evaluating-large-language-models/",
+        "https://www.codesmith.io/blog/an-introduction-to-llm-evaluation-how-to-measure-the-quality-of-llms-prompts-and-outputs",
+        "https://www.analyticsvidhya.com/blog/2023/05/how-to-evaluate-a-large-language-model-llm/",
+        "https://deepchecks.com/how-to-build-evaluate-and-manage-prompts-for-llm/#:~:text=Evaluating%20the%20Effectiveness%20of%20Prompts,-Establishing%20Criteria%20for&text=To%20ascertain%20the%20effectiveness%20of,responses%20accurately%20address%20the%20query%3F"
+    ]
+}
