@@ -31,19 +31,21 @@ body {
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    border-left: 5px solid #3498db; /* Accent Border */
+    border: 5px solid #3498db;
+    /* border-left: 5px solid #3498db; */
 }
 
 .chat-header {
     background-color: #154579;
     color: #ffffff;
-    padding: 15px;
+    padding: 5px;
     text-align: center;
+    border-radius: 10px;
 }
 
 .chat-header h1 {
     font-weight: 600;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
 }
 
 .chat-box {
@@ -54,6 +56,7 @@ body {
     overflow-y: auto;
     padding: 15px;
     border-bottom: 1px solid #ddd;
+    border-radius: 10px;
 }
 
 .chat-box::-webkit-scrollbar {
@@ -245,6 +248,7 @@ body {
     color: white;
     margin-left: auto;
     text-align: right;
+    border-radius: 10px;
 }
 
 .message.llm {
@@ -260,17 +264,18 @@ body {
 .input-group {
     display: flex;
     align-items: center;
-    border-radius: 20px;
     overflow: hidden;
-    background-color: #e9ecef;
+    background-color: #007bff;
+    border-radius: 22px;
 }
 
 .input-group input[type="text"] {
     border: none;
-    padding: 10px;
+    padding: 12px;
+    margin: 2px;
     flex: 1;
     font-size: 1rem;
-    border-radius: 20px 0 0 20px;
+    border-radius: 20px 0px 0px 20px;
 }
 
 .input-group input[type="text"]:focus {
@@ -286,8 +291,8 @@ body {
 }
 
 .send-button img {
-    width: 20px;
-    height: 20px;
+    width: 15px;
+    height: 15px;
 }
 
 .options-group {
@@ -295,6 +300,7 @@ body {
     flex-wrap: wrap;
     margin-top: 10px;
     background-color: #ececec;
+    border-radius: 10px;
 }
 
 .option {
@@ -333,7 +339,7 @@ body {
     width: 0;
     height: 0;
 }
-/* 
+
 .slider {
     position: absolute;
     cursor: pointer;
@@ -364,7 +370,7 @@ input:checked + .slider {
 
 input:checked + .slider:before {
     transform: translateX(20px);
-} */
+}
 
 small {
     display: block;

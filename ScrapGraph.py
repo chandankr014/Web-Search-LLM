@@ -3,7 +3,7 @@ import json
 from scrapegraphai.graphs import SmartScraperGraph
 from scripts.selenium import search_and_collect_all_urls, search_and_collect_urls
 from scripts.common import get_common_domain_urls, save_json, save_markdown, save_urls
-from scripts.model import MODEL, invoke_query
+from scripts.model import invoke_query
 from optimization.query import rephrase_n_query, invoke_intent
 from optimization.switch import Switcher
 import ast
@@ -11,27 +11,30 @@ import json
 
 
 class IntentHandler:
-    def __init__(self, query):
+    def __init__(self, query, MODEL, TEMP):
+        self.MODEL = MODEL
         self.query = query
+        self.TEMP = TEMP
         self.intent = self.invoke_intent()
         self.switcher = Switcher()
         self.prompt = self.switcher.Switch(intent=self.intent, query=self.query)
 
     def invoke_intent(self):
-        return invoke_intent(query=self.query, log=True)
+        return invoke_intent(MODEL=self.MODEL, query=self.query, t=self.TEMP, log=False)
 
 
 class UrlFetcher:
-    def __init__(self, query, intent, N, TOP_N, HEADLESS_MODE):
+    def __init__(self, query, intent, N, TOP_N, HEADLESS_MODE, MODEL):
         self.query = query
         self.intent = intent
         self.N = N
         self.TOP_N = TOP_N
         self.HEADLESS_MODE = HEADLESS_MODE
+        self.MODEL = MODEL
         self.urls = []
 
     def fetch_urls(self):
-        llm_output = rephrase_n_query(query=self.query, N=self.N)
+        llm_output = rephrase_n_query(query=self.query, MODEL=self.MODEL, N=self.N)
         queries_list = ast.literal_eval(llm_output)
 
         if len(queries_list) == self.N:
@@ -73,14 +76,18 @@ class Scraper:
 
 
 class ResponseHandler:
-    def __init__(self, combined_answer, query):
+    def __init__(self, combined_answer, query, MODEL, TEMP):
         self.combined_answer = combined_answer
         self.query = query
+        self.MODEL = MODEL
+        self.TEMP = TEMP
 
     def invoke_llm(self):
         return invoke_query(
+            MODEL=self.MODEL,
             question=self.query,
-            context=self.combined_answer
+            context=self.combined_answer,
+            t=self.TEMP
         )
 
     def save_answer(self, answer):
@@ -109,21 +116,24 @@ class ResponseHandler:
             return "Input is not an AIMessage object."
 
 # to be called
-def main(query, N, TOP_N, API_KEY, MODEL, HEADLESS_MODE):
-    print("##-------------------------- AGENT Started --------------------------")
-    intent_handler = IntentHandler(query)
-    url_fetcher = UrlFetcher(query, intent_handler.intent, N, TOP_N, HEADLESS_MODE)
+def main(query, N, TOP_N, API_KEY, MODEL, HEADLESS_MODE, TEMP):
+    print("##-------------------------- AGENT Started --------------------------##")
+    intent_handler = IntentHandler(query, MODEL, TEMP)
+
+    url_fetcher = UrlFetcher(query, intent_handler.intent, N, TOP_N, HEADLESS_MODE, MODEL)
     url_fetcher.fetch_urls()
     # url_fetcher.get_common_domain_urls()
 
     scraper = Scraper(url_fetcher.urls, intent_handler.prompt, API_KEY, MODEL, HEADLESS_MODE)
     scraper.run_scraping()
-    
     combined_answer = scraper.combine_answers()
-    response_handler = ResponseHandler(combined_answer, query)
+    
+    response_handler = ResponseHandler(combined_answer, query, MODEL, TEMP)
     answer = response_handler.invoke_llm()
-    print("##-------------------------- AGENT Stopped --------------------------")
+    
+    print("##-------------------------- AGENT Stopped --------------------------##")
     return answer.content
 
+
 # calling
-# main(query="IIT vs IIM", N=5, TOP_N=10, API_KEY=API_KEY, MODEL=MODEL)
+# main(query="IIT vs IIM", N=5, TOP_N=10, API_KEY=API_KEY, MODEL=MODEL, TEMP=0.4)

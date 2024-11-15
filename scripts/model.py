@@ -5,10 +5,10 @@ import config
 
 
 API_KEY = config.API_KEY
-MODEL = config.MODEL
+# MODEL = config.MODEL
 
 # INVOKE
-def invoke_query(MODEL=MODEL, question=None, context=None, t=0.4):
+def invoke_query(MODEL, question=None, context=None, t=0.4):
 
     model = ChatGoogleGenerativeAI(model=MODEL, temperature=t, api_key=API_KEY)
     prompt = PROMPT_TWO(question)
@@ -17,7 +17,7 @@ def invoke_query(MODEL=MODEL, question=None, context=None, t=0.4):
 
 
 # INVOKE WITH PROMPT ONLY
-def invoke_prompt(MODEL=MODEL, PROMPT=None, t=0.4):
+def invoke_prompt(MODEL, PROMPT=None, t=0.4):
 
     model = ChatGoogleGenerativeAI(model=MODEL, temperature=t, api_key=API_KEY)
     res = model.invoke(PROMPT)
@@ -26,7 +26,7 @@ def invoke_prompt(MODEL=MODEL, PROMPT=None, t=0.4):
 
 
 # INVOKE WITH FILEPATH
-def invoke_filepath(MODEL=MODEL, question=None, filepath=None, t=0.4):
+def invoke_filepath(MODEL, question=None, filepath=None, t=0.4):
     
     data = read_json(filepath)
 

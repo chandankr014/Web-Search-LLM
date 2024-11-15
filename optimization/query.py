@@ -10,10 +10,10 @@ import config
 
 # VARIABLES -----------------------
 API_KEY = config.API_KEY
-MODEL = config.MODEL
+# MODEL = config.MODEL
 
 
-def invoke_intent(MODEL=MODEL, query=None, t=0.4, log=True):
+def invoke_intent(MODEL, query=None, t=0.4, log=True):
 
     model = ChatGoogleGenerativeAI(model=MODEL, temperature=t, api_key=API_KEY)
     prompt = MASTER_PROMPT(query)
@@ -28,7 +28,7 @@ def invoke_intent(MODEL=MODEL, query=None, t=0.4, log=True):
     return res
 
 
-def invoke_prompt(MODEL=MODEL, PROMPT=None, t=0.4):
+def invoke_prompt(MODEL, PROMPT=None, t=0.4):
 
     model = ChatGoogleGenerativeAI(model=MODEL, temperature=t, api_key=API_KEY)
     res = model.invoke(PROMPT)
@@ -62,13 +62,13 @@ def refine_query(query, intent=None) -> str:
 
 
 # REPHRASE INTO N -------------------------------------------------
-def rephrase_n_query(query, N=4):
+def rephrase_n_query(query, MODEL, N=4):
     PROMPT = f"""You are a helpful and accurate query rephraser. \n
     The goal is to rephrase the query into {N} different query which carry the same semantic. \n
     return the results as a LIST only nothing extra, for ex: ["item1", "item2", ... , "itemN"]. \n
     Query: **{query}** \n
     """
-    op = invoke_prompt(PROMPT=PROMPT)
+    op = invoke_prompt(MODEL, PROMPT=PROMPT)
     return op
 
 

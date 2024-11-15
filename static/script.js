@@ -4,7 +4,7 @@ function sendMessage() {
     const topNOption = document.getElementById("top-n-option").value;
     const modelOption = document.getElementById("model-option").value;
     const headlessMode = document.getElementById("headless-switch").checked;
-
+    
     // Display the user's message
     appendMessage("User", userMessage);
 
